@@ -1,4 +1,9 @@
 version: "3"
 service:
+  mysql000ex11:
+  wordpress000ex12:
 networks:
+  wordpress000net1:
 volumes:
+  mysql1000vol11:
+  wordpress000vol12:
